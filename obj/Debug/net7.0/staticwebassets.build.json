@@ -1,11 +1,54 @@
 {
   "Version": 1,
-  "Hash": "PqPkBNSlW/1WREtGUrE0fviYVBxrLzhWNElSarzZd08=",
+  "Hash": "OnQnu/Zfl0AEP3DP448iKqxt95qAcAMrC0n3fVgeeVI=",
   "Source": "TestAspNetCoreOnLinux",
   "BasePath": "_content/TestAspNetCoreOnLinux",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "TestAspNetCoreOnLinux/wwwroot",
+      "Source": "TestAspNetCoreOnLinux",
+      "ContentRoot": "/home/alex/Documents/CODE/TestAspNetCoreOnLinux/wwwroot/",
+      "BasePath": "_content/TestAspNetCoreOnLinux",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/alex/Documents/CODE/TestAspNetCoreOnLinux/wwwroot/aspnet.png",
+      "SourceId": "TestAspNetCoreOnLinux",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/alex/Documents/CODE/TestAspNetCoreOnLinux/wwwroot/",
+      "BasePath": "_content/TestAspNetCoreOnLinux",
+      "RelativePath": "aspnet.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/aspnet.png"
+    },
+    {
+      "Identity": "/home/alex/Documents/CODE/TestAspNetCoreOnLinux/wwwroot/index.html",
+      "SourceId": "TestAspNetCoreOnLinux",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/alex/Documents/CODE/TestAspNetCoreOnLinux/wwwroot/",
+      "BasePath": "_content/TestAspNetCoreOnLinux",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
 }

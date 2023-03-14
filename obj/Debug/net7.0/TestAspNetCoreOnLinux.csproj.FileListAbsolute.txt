@@ -24,3 +24,4 @@
 /home/alex/Documents/CODE/TestAspNetCoreOnLinux/obj/Debug/net7.0/TestAspNetCoreOnLinux.pdb
 /home/alex/Documents/CODE/TestAspNetCoreOnLinux/obj/Debug/net7.0/TestAspNetCoreOnLinux.genruntimeconfig.cache
 /home/alex/Documents/CODE/TestAspNetCoreOnLinux/obj/Debug/net7.0/ref/TestAspNetCoreOnLinux.dll
+/home/alex/Documents/CODE/TestAspNetCoreOnLinux/bin/Debug/net7.0/TestAspNetCoreOnLinux.staticwebassets.runtime.json
