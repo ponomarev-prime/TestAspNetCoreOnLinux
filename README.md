@@ -4,6 +4,12 @@
 
 Это простое веб-приложение ASP.NET Core, созданное в Arch Linux с использованием Visual Studio Code.
 
+---
+
+NEXT branche for innovation
+
+---
+
 ## Getting Started
 Чтобы запустить это приложение на вашем компьютере, вам необходимо установить пакет SDK для .NET Core. Вы можете скачать SDK с официального сайта .NET Core: https://dotnet.microsoft.com/download
 
