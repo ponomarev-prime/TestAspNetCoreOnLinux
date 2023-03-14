@@ -10,18 +10,23 @@ app.MapGet("/", async context =>
             <style>
                 body {
                     background-color: #1E1E1E;
+                    color: #FFFFFF;
                     font-family: Arial, sans-serif;
                     font-size: 16px;
                 }
-                h1 {
-                    color: #FFFFFF;
-                    text-align: center;
-                    margin-top: 50px;
+                a {
+                    color: #0099FF;
+                    text-decoration: none;
                 }
-                p {
-                    color: #2E2E2E;
-                    text-align: center;
-                    margin-top: 30px;
+                a:hover {
+                    color: #FFFFFF;
+                    background-color: #2E2E2E;
+                }
+                .accent {
+                    color: #FFA500;
+                }
+                .border {
+                    border: 1px solid #4D4D4D;
                 }
             </style>
         </head>
