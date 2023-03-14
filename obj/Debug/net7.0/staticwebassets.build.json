@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PqPkBNSlW/1WREtGUrE0fviYVBxrLzhWNElSarzZd08=",
+  "Source": "TestAspNetCoreOnLinux",
+  "BasePath": "_content/TestAspNetCoreOnLinux",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
