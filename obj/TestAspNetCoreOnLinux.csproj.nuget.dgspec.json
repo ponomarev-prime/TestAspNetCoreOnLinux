@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ponom\\Documents\\CODE\\TestAspNetCoreOnLinux\\TestAspNetCoreOnLinux.csproj": {}
+    "/mnt/c/Users/ponom/Documents/CODE/TestAspNetCoreOnLinux/TestAspNetCoreOnLinux.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ponom\\Documents\\CODE\\TestAspNetCoreOnLinux\\TestAspNetCoreOnLinux.csproj": {
+    "/mnt/c/Users/ponom/Documents/CODE/TestAspNetCoreOnLinux/TestAspNetCoreOnLinux.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ponom\\Documents\\CODE\\TestAspNetCoreOnLinux\\TestAspNetCoreOnLinux.csproj",
+        "projectUniqueName": "/mnt/c/Users/ponom/Documents/CODE/TestAspNetCoreOnLinux/TestAspNetCoreOnLinux.csproj",
         "projectName": "TestAspNetCoreOnLinux",
-        "projectPath": "C:\\Users\\ponom\\Documents\\CODE\\TestAspNetCoreOnLinux\\TestAspNetCoreOnLinux.csproj",
-        "packagesPath": "C:\\Users\\ponom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ponom\\Documents\\CODE\\TestAspNetCoreOnLinux\\obj\\",
+        "projectPath": "/mnt/c/Users/ponom/Documents/CODE/TestAspNetCoreOnLinux/TestAspNetCoreOnLinux.csproj",
+        "packagesPath": "/home/alex/.nuget/packages/",
+        "outputPath": "/mnt/c/Users/ponom/Documents/CODE/TestAspNetCoreOnLinux/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ponom\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/alex/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/alex/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j1C6uQmdXD4il3OzAnkp30r3dgXhgQbUzE/7qWJC3Ui69zR/5aGf4D7fy+pGJnizhUvzsYcoYeQ2LTOqmZLCKA==",
+  "dgSpecHash": "Dc/hq3hXC2Q1HweAv66PQrQZCA0ZMXjYzJGS+VrRyoR/wU7ju9BHkA64g70S10r5n37PhzP7BCmD95mMYfycUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ponom\\Documents\\CODE\\TestAspNetCoreOnLinux\\TestAspNetCoreOnLinux.csproj",
+  "projectFilePath": "/mnt/c/Users/ponom/Documents/CODE/TestAspNetCoreOnLinux/TestAspNetCoreOnLinux.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

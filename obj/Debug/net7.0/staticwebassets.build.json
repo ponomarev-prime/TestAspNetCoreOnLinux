@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9EFvPBYORyi6JAxNPvSwLJ3MoasKH4ZFl1KBF+WBs8g=",
+  "Hash": "urr49VHpRYA8OAn+Zp4drGIpOTY8NAjJ6Y5dadWqprs=",
   "Source": "TestAspNetCoreOnLinux",
   "BasePath": "_content/TestAspNetCoreOnLinux",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "TestAspNetCoreOnLinux\\wwwroot",
+      "Name": "TestAspNetCoreOnLinux/wwwroot",
       "Source": "TestAspNetCoreOnLinux",
-      "ContentRoot": "C:\\Users\\ponom\\Documents\\CODE\\TestAspNetCoreOnLinux\\wwwroot\\",
+      "ContentRoot": "/mnt/c/Users/ponom/Documents/CODE/TestAspNetCoreOnLinux/wwwroot/",
       "BasePath": "_content/TestAspNetCoreOnLinux",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ponom\\Documents\\CODE\\TestAspNetCoreOnLinux\\wwwroot\\aspnet.png",
+      "Identity": "/mnt/c/Users/ponom/Documents/CODE/TestAspNetCoreOnLinux/wwwroot/aspnet.png",
       "SourceId": "TestAspNetCoreOnLinux",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ponom\\Documents\\CODE\\TestAspNetCoreOnLinux\\wwwroot\\",
+      "ContentRoot": "/mnt/c/Users/ponom/Documents/CODE/TestAspNetCoreOnLinux/wwwroot/",
       "BasePath": "_content/TestAspNetCoreOnLinux",
       "RelativePath": "aspnet.png",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\aspnet.png"
+      "OriginalItemSpec": "wwwroot/aspnet.png"
     },
     {
-      "Identity": "C:\\Users\\ponom\\Documents\\CODE\\TestAspNetCoreOnLinux\\wwwroot\\index.html",
+      "Identity": "/mnt/c/Users/ponom/Documents/CODE/TestAspNetCoreOnLinux/wwwroot/index.html",
       "SourceId": "TestAspNetCoreOnLinux",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ponom\\Documents\\CODE\\TestAspNetCoreOnLinux\\wwwroot\\",
+      "ContentRoot": "/mnt/c/Users/ponom/Documents/CODE/TestAspNetCoreOnLinux/wwwroot/",
       "BasePath": "_content/TestAspNetCoreOnLinux",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -48,7 +48,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\index.html"
+      "OriginalItemSpec": "wwwroot/index.html"
     }
   ]
 }
