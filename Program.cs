@@ -30,6 +30,7 @@ app.MapGet("/", async context =>
             <p>Welcome to my first ASP.NET Core web app!</p>
         </body>
         </html>";
+        
     await context.Response.WriteAsync(html);
 });
 
